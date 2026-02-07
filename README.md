@@ -223,6 +223,6 @@ Roger Deakins 用镜头告诉我们：未来不是光鲜亮丽的，而是破碎
 
 ---
 
-**开源地址：** [GitHub Link]
+**开源地址：** [https://github.com/ponyodong2026/mecha-story-generator](https://github.com/ponyodong2026/mecha-story-generator)
 **作者：** [ponyodong]
 **日期：** 2026 年 2 月 7 日
